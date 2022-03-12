@@ -1,4 +1,4 @@
-### Hi there!
+### :herb: Hi there!
 
 I’m Andrew, a data science student and data enthusiast.
 
