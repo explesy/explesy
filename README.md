@@ -1,6 +1,6 @@
 ### :herb: Hi there!
 
-I’m Andrew, a data science student and data enthusiast.
+I’m, a data science student and data enthusiast.
 
 - 🔭 I have experience on some data driven social projects and want to move with it.
 - 🌱 I’m in love with linux, git and constant attempts to learn VIM
