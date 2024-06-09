@@ -14,7 +14,7 @@ I’m, a data science student and data enthusiast.
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=black)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black)
-![VScode](https://img.shields.io/badge/VScode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=black)
+![NeoVIM](https://img.shields.io/badge/NeoVIM-007ACC.svg?style=for-the-badge&logo=neovim&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=black)
