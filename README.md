@@ -1,4 +1,3 @@
-```md
 ### 🌿 Hi there!
 
 I'm Andrey, a Python developer.
@@ -32,4 +31,3 @@ These days I spend a lot of time working with **LLMs, AI agents and tools around
 `OpenAI` · `DeepSeek` · `Codex` · `OpenCode`
 
 I'm especially interested in how different models can work together — planning, implementation, review and iteration — and how to make these workflows practical for everyday development.
-```
